@@ -1,4 +1,4 @@
-# gauneeti-delivery-boy-app-flutter
+# elderly-healthcare-app-flutter
 
 ### Command to build apk
 To make build for a particular environment just replace the `<flavor>` with an appropriate env name
